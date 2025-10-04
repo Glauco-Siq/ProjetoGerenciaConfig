@@ -1,3 +1,3 @@
 public interface Imposto {
-    public void calcularImposto();
+    public double calcularImposto();
 }

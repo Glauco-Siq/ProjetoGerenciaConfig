@@ -1,3 +1,3 @@
 public interface Frete {
-    public void calcularFrete();
+    public double calcularFrete();
 }
